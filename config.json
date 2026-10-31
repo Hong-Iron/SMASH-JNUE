@@ -1,0 +1,109 @@
+{
+  "code": "JNUE",
+  "title": "SMASH JNUE",
+  "school": "전주교대",
+  "fullName": "전주교육대학교",
+  "campusName": "전주교육대학교",
+  "tagline": "전주교대를 부셔 (시험기간 스트레스 해소)",
+  "description": "전주교육대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 전주교육대학교 3D 화면과 SMASH JNUE 제목",
+  "url": "https://hong-iron.github.io/SMASH-JNUE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 35543489
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/255025784",
+      "n": "체육관",
+      "why": "항공사진에 없음 — 사진에는 지붕 없는 흙 테니스장 세 면만 있고 옆 평생교육관 그림자가 코트 바닥에 그대로 떨어져 있어 체육관 건물이 서 있지 않다."
+    },
+    {
+      "id": "way/1489282769",
+      "n": "",
+      "why": "학교 건물 아님 — 학교 땅이 아닌 42㎡짜리 대지(214-2)에 1956년 단독주택으로 등록된 작은 집이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        35.8084019,
+        127.1537226
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 운동장 트랙과 인조잔디 위라 아무것도 서 있지 않다."
+    },
+    {
+      "at": [
+        35.8080237,
+        127.1559347
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 남동쪽 경계 비탈에 나무숲만 보이고 지붕이 없다."
+    },
+    {
+      "at": [
+        35.8089868,
+        127.1537076
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 땅에서 떨어져 나온 59㎡짜리 대지(213-1)를 채운 이름 없는 좁은 창고라, 학교 건물로 볼 근거가 없다."
+    },
+    {
+      "at": [
+        35.8090212,
+        127.158139
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 밖 동쪽 나무숲 위라 건물이 없다."
+    }
+  ],
+  "look": {
+    "명학관": {
+      "style": "brick",
+      "wall": "#9a5a47",
+      "glass": "#3d4044",
+      "frame": "#ddd6cc",
+      "roof": "#8a9c74",
+      "hip": true
+    },
+    "교육문화관": {
+      "style": "brick",
+      "wall": "#9f6750",
+      "glass": "#5a6e74",
+      "frame": "#7d7f7e"
+    },
+    "전산사회관": {
+      "style": "brick",
+      "wall": "#8f5c4b",
+      "glass": "#4f5a5e",
+      "frame": "#7f8181"
+    },
+    "미술실과관": {
+      "style": "brick",
+      "wall": "#6b4236",
+      "glass": "#4f5557",
+      "frame": "#b9bab9"
+    },
+    "(7)음악관": {
+      "style": "ribbon",
+      "wall": "#62656d",
+      "glass": "#4a5f66",
+      "frame": "#8e9198"
+    },
+    "대학본부동": {
+      "style": "brick",
+      "wall": "#4e302b",
+      "glass": "#2f3336",
+      "frame": "#9a9a98"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
