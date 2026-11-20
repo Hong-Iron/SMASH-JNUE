@@ -1,0 +1,34 @@
+{
+ "region": "전북 전주시 완산구 동서학동",
+ "nameEn": "Jeonju National University of Education",
+ "added": "2026-11-01T02:27",
+ "rank": 198,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "JBNU",
+   "campus": "전북대학교 전주캠퍼스",
+   "km": 4.6
+  },
+  {
+   "code": "JJU",
+   "campus": "전주대학교",
+   "km": 6.0
+  },
+  {
+   "code": "KNUAF",
+   "campus": "국립한국농수산대학교",
+   "km": 8.3
+  },
+  {
+   "code": "WOOSUK",
+   "campus": "우석대학교 전주캠퍼스",
+   "km": 14.2
+  },
+  {
+   "code": "YEWON",
+   "campus": "예원예술대학교",
+   "km": 20.7
+  }
+ ]
+}
